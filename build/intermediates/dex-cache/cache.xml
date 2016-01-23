@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Michael\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.1\905075e6c80f206bbe6cf1e809d2caa69f420c76\commons-lang3-3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="905075e6c80f206bbe6cf1e809d2caa69f420c76">
+        <dex dex="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\pre-dexed\debug\commons-lang3-3.1_b059b7b85505a74e3d84b84a71f87b632f4ec896.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-integration\2.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d4d7d4290dc3f13bdb95a92b2377d78e66084dfa">
+        <dex dex="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\pre-dexed\debug\com.journeyapps-zxing-android-integration-2.0.1_3d412e16ce31d470a0476b6efb1b5624d859e4d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.0.1\9ebf6cd580d67601fbf88fd007aab4703b19e4c2\core-3.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9ebf6cd580d67601fbf88fd007aab4703b19e4c2">
+        <dex dex="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\pre-dexed\debug\core-3.0.1_6b653e2f6d6a24b8a5039a7c292624c83172748f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9742ced04aafd9ac97dd2c66c1aa0e32d2ae7e54">
+        <dex dex="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-21.0.2_fd32d3b015664d7134c3ac83a12762d488f9db10.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-6.5.87_c7d9206b72e216191511054e79694b382d8f6f16.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\exploded-aar\com.github.navasmdc\MaterialDesign\1.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="87405405e403de68f4057757b8a2e8de02bd65d0">
+        <dex dex="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\pre-dexed\debug\com.github.navasmdc-MaterialDesign-1.4_d262813d0ef68aa7d0efbfaf67de99285ca8a8b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\18.0\cce0823396aa693798f8882e64213b1772032b09\guava-18.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\pre-dexed\debug\guava-18.0_12b23f7d0c05ba4ec7593005f2354a43976f90df.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\pre-dexed\debug\library-2.4.0_2f66b0e7e7614bb5d292b9b64d5f2a4994db1f39.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.3\a85588bec3e2c4584d593d3f15df1677321bca72\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3_79979f596448e05d559ecf86ee297dfdbf29e02f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_df6ac60a5c8997abf5c4397d1345b71c3f61b6aa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_d24f047676c1c155f46c32ec12f598cd54497815.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\exploded-aar\com.github.amlcurran.showcaseview\library\5.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8b3d9a7b348d8bcfb4d740dfaf70bc374cdae9d6">
+        <dex dex="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\pre-dexed\debug\com.github.amlcurran.showcaseview-library-5.0.0_44b3005ffdc37d3c2eb97c2ebe8a486f4d363224.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="65620ba5e576dcec2c86efa440b00d042a27383b">
+        <dex dex="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\pre-dexed\debug\com.melnykov-floatingactionbutton-1.2.0_025c025b668a2587be9b131eb3920e4048c1a1bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_3527c4c9e551775e2d07159c7eb9ffda2c639324.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-21.0.2_409d74f9294b19ac218074dc3424c12a456e3507.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\2.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f38c1fe0ee3d0ef717e7f32131719fccf07fd6c7">
+        <dex dex="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\pre-dexed\debug\com.journeyapps-zxing-android-embedded-2.0.1_d5c9d6f4c69e71b6349562a2cb53400090c4ce8f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4796f18d3750bf2bfa078407a94a7f9db35b440d">
+        <dex dex="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-21.0.2_524eaee246bdfb5eb0e0dd2ddc0ea86f14ad8b4b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.sqliteasset\sqliteassethelper\2.0.1\d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f\sqliteassethelper-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
+        <dex dex="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\pre-dexed\debug\sqliteassethelper-2.0.1_de405b86ea2900bf2814b171bd7e44a9eb5380ce.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\exploded-aar\com.r0adkll\slidableactivity\2.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="79f4062ee028d4de698e208c2d4715296a22f171">
+        <dex dex="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\pre-dexed\debug\com.r0adkll-slidableactivity-2.0.2_4568e20ce9c38b2757be945922c2226fc1782d45.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_866a76a96b882f91f616f7ec6c9340e450e4b0bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\exploded-aar\com.rengwuxian.materialedittext\library\1.8.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="516ac6ca1d257cf5a1d95184b2ca21234f59c885">
+        <dex dex="C:\Users\Michael\Documents\GitHub\ConU\ConUHacks\app\build\intermediates\pre-dexed\debug\com.rengwuxian.materialedittext-library-1.8.3_a72e81c8be79e7776feb772655e46c451a34804a.jar" />
+    </item>
+
+</items>

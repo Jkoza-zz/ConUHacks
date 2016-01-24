@@ -13,7 +13,6 @@ import com.macadamian.smartpantry.content.controllers.TemplateController;
 import java.util.ArrayList;
 
 public class MyContentProvider extends ContentProvider {
-
     private ArrayList<AbstractController> mControllers = Lists.newArrayList();
     private MySqlAssetHelper mHelper;
 

@@ -12,6 +12,7 @@ import android.util.SparseBooleanArray;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
@@ -29,6 +30,7 @@ import com.macadamian.smartpantry.database.tables.InventoryItemTable;
 import com.macadamian.smartpantry.ui.SwipeToDismissTouchListener;
 import com.macadamian.smartpantry.ui.UIConstants;
 import com.macadamian.smartpantry.ui.activities.EditItemActivity;
+import com.macadamian.smartpantry.ui.activities.Shop;
 import com.macadamian.smartpantry.ui.adapters.recycler.RecyclerCursorAdapter;
 import com.macadamian.smartpantry.utility.AnimationUtility;
 import com.macadamian.smartpantry.widgets.ExpirationWidget;
@@ -136,8 +138,23 @@ public class InventoryRecyclerAdapter extends RecyclerCursorAdapter<InventoryRec
                 layoutResId = R.layout.adapter_inventory_footer;
                 break;
         }
+
         final View view = LayoutInflater.from(parent.getContext()).inflate(layoutResId, parent, false);
+        if (viewType == VIEW_TYPE_FOOTER){
+            Button buttonShop = (Button) view.findViewById(R.id.buttonShop);
+            buttonShop.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    Intent ShopLoad = new Intent(mContext, Shop.class);
+                    mContext.startActivity(ShopLoad);
+
+                }
+            });
+
+
+        }
         return new ViewHolder(view, viewType);
+
     }
 
     @Override

@@ -34,6 +34,13 @@
                 android:text="https://github.com/Jkoza/ConUHacks"
                 android:gravity="center_horizontal" />
             <TextView
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/about_text_size"
+                android:gravity="center_horizontal"
+                android:text="Created by:"/>
+            <TextView
                 android:layout_marginTop="8dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -59,6 +66,15 @@
                 android:linksClickable="true"
                 android:autoLink="web"
                 android:text="https://ca.linkedin.com/in/mdaboyd"
+                android:gravity="center_horizontal" />
+            <TextView
+                android:layout_marginTop="8dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/about_text_size"
+                android:linksClickable="true"
+                android:autoLink="web"
+                android:text="And Thomas Arellano"
                 android:gravity="center_horizontal" />
 
 

@@ -2,11 +2,126 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:paddingBottom="@dimen/activity_vertical_margin"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.macadamian.smartpantry.ui.activities.Shop">
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:id="@+id/icon_appbar_right"
+        android:layout_width="400dp"
+        android:layout_height="250dp"
+        android:src="@drawable/grocery"
+        android:layout_centerInParent="true"
+        android:layout_alignParentBottom="true"/>
+
+    <ImageButton
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:id="@+id/deli"
+        android:layout_marginEnd="42dp"
+        android:layout_marginBottom="26dp"
+        android:background="@drawable/map"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true" />
+
+    <ImageButton
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:id="@+id/bakery"
+        android:layout_marginBottom="57dp"
+        android:background="@drawable/map"
+        android:layout_above="@+id/deli"
+        android:layout_alignEnd="@+id/deli"
+        android:visibility="visible" />
+
+    <ImageButton
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:id="@+id/wine"
+        android:layout_marginBottom="38dp"
+        android:background="@drawable/map"
+        android:layout_above="@+id/bakery"
+        android:layout_alignEnd="@+id/bakery" />
+
+    <ImageButton
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:id="@+id/dairy"
+        android:background="@drawable/map"
+        android:layout_marginEnd="34dp"
+        android:layout_alignBottom="@+id/wine"
+        android:layout_toStartOf="@+id/wine"
+        android:layout_marginBottom="10dp" />
+
+    <ImageButton
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:id="@+id/meat"
+        android:background="@drawable/map"
+        android:layout_marginEnd="52dp"
+        android:layout_alignTop="@+id/dairy"
+        android:layout_toStartOf="@+id/dairy" />
+
+    <ImageButton
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:id="@+id/seafood"
+        android:background="@drawable/map"
+        android:layout_marginStart="24dp"
+        android:layout_alignTop="@+id/meat"
+        android:layout_alignParentStart="true" />
+
+    <ImageButton
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:id="@+id/bulk"
+        android:background="@drawable/map"
+        android:layout_marginStart="19dp"
+        android:layout_above="@+id/bakery"
+        android:layout_alignStart="@+id/seafood" />
+
+    <ImageButton
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:id="@+id/produce"
+        android:background="@drawable/map"
+        android:layout_above="@+id/deli"
+        android:layout_alignEnd="@+id/bulk" />
+
+    <ImageButton
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:id="@+id/frozen"
+        android:background="@drawable/map"
+        android:layout_alignTop="@+id/deli"
+        android:layout_alignStart="@+id/dairy" />
+
+    <ImageButton
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:id="@+id/soup"
+        android:background="@drawable/map"
+        android:layout_alignBottom="@+id/frozen"
+        android:layout_alignEnd="@+id/meat"
+        android:layout_marginEnd="18dp"
+        android:layout_marginBottom="11dp" />
+
+    <ImageButton
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:id="@+id/pasta"
+        android:background="@drawable/map"
+        android:layout_marginTop="4dp"
+        android:layout_alignTop="@+id/bulk"
+        android:layout_alignStart="@+id/soup" />
+
+    <ImageButton
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:id="@+id/cereal"
+        android:background="@drawable/map"
+        android:layout_alignTop="@+id/pasta"
+        android:layout_alignStart="@+id/dairy"
+        android:layout_marginStart="6dp"
+        android:layout_marginTop="12dp" />
 
 </RelativeLayout>

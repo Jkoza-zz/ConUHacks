@@ -4,38 +4,38 @@
     <!--Default Colors-->
     <color name="white">#FFFFFF</color>     //add new item, apache2.0 text , mit text, add new item background
     <color name="black">#000000</color>     //bottom bar, sample text in input boxes, actual text in input boxes, thin bar above settings
-    //<color name="grey">#ff66ff</color>    //b5b3b2
+    //<color name="grey">#b5b3b2</color>    //b5b3b2
 
     <!--Overall Colors-->
-    <color name="primary_dark">#000000 </color>      //1c6aac apache 2.0 background, mit background, undo background, top bar
-    <color name="primary">#57068C </color>         //ff33cfe8 end scroll colour, headers, pantry shopping basket background, checklist item divider
-    <color name="accent">#a323f6 </color>          //ff1e93e5 hyperlinks, setting headers and setting checkbox colour
-    <color name="lightaccent">#ccccff </color>     //ffa2d9db manage location add button background, submit and discard buttons background
+    <color name="primary_dark">#1c6aac </color>      //1c6aac apache 2.0 background, mit background, undo background, top bar
+    <color name="primary">#ff33cfe8 </color>         //ff33cfe8 end scroll colour, headers, pantry shopping basket background, checklist item divider
+    <color name="accent">#ff1e93e5 </color>          //ff1e93e5 hyperlinks, setting headers and setting checkbox colour
+    <color name="lightaccent">#ffa2d9db </color>     //ffa2d9db manage location add button background, submit and discard buttons background
 
     <!--Navigation Button Colors-->
-    <color name="add_item_button_background">#a323f6</color>      //ffff7474 add item button background (plus sign)
-    <color name="shape_item_gradient_start_color">#ff66ff</color>       //CCCCCC
-    <color name="shape_item_gradient_end_color">#ff66ff</color>     //999999
+    <color name="add_item_button_background">#ffff7474</color>      //ffff7474 add item button background (plus sign)
+    <color name="shape_item_gradient_start_color">#CCCCCC</color>       //CCCCCC
+    <color name="shape_item_gradient_end_color">#999999</color>     //999999
 
     <!--Inventory List Colors-->
     <color name="item_text_color">#1b1b1b</color>       // home and work text pantry and checklist
-    <color name="item_title_color">#000000</color>      //444444 product text pantry and checklist
+    <color name="item_title_color">#444444</color>      //444444 product text pantry and checklist
     <color name="item_not_expired_color">#FFFFFF</color>        //pantry product background
-    <color name="item_expired_color">#ff66ff</color>        //FFFFFF
-    <color name="item_selected_color">#57068C</color>       //C8E6C9 item selected
+    <color name="item_expired_color">#FFFFFF</color>        //FFFFFF
+    <color name="item_selected_color">#C8E6C9</color>       //C8E6C9 item selected
     <color name="item_inactive_color">#FFFFFF</color>       //checklist product background
-    <color name="item_divider_color">#57068C</color>        //CFD8DC pantry item divider
+    <color name="item_divider_color">#CFD8DC</color>        //CFD8DC pantry item divider
     <color name="recyclerview_background_color">#FFDEDEDE</color>       //pantry and checklist blank space under items
     <color name="quantity_widget_gray">#FFEBEBEB</color>        // quality items background
 
     <!--Navigation Drawer Colors-->
-    <color name="navigation_drawer_background_color">#ccccff</color>        //bdf3f5 menu items background
+    <color name="navigation_drawer_background_color">#bdf3f5</color>        //bdf3f5 menu items background
 
     <!--Quick Quantity Edit Colors-->
-    <color name="quick_quantity_color">#ff66ff</color>      //FFFFFF
+    <color name="quick_quantity_color">#FFFFFF</color>      //FFFFFF
 
     <!--App Sub Bar Colors-->
-    <color name="app_sub_bar_background_color">#ccccff</color>      //acf0f2 location header menu background
-    <color name="qty_quick_background">#ff66ff</color>      //1E88E5
+    <color name="app_sub_bar_background_color">#acf0f2</color>      //acf0f2 location header menu background
+    <color name="qty_quick_background">#1E88E5</color>      //1E88E5
 
 </resources>
